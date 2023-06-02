@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 us_etf_stocks_dataset
+.DS_Store
